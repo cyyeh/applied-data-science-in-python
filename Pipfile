@@ -12,6 +12,9 @@ matplotlib = "*"
 scikit-learn = "*"
 jupyterlab = "*"
 xlrd = "*"
+seaborn = "*"
+ipython = "*"
+graphviz = "*"
 
 [requires]
 python_version = "3.6"
