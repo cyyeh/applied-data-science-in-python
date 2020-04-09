@@ -8,13 +8,14 @@ verify_ssl = true
 [packages]
 numpy = "*"
 pandas = "*"
-matplotlib = "*"
+matplotlib = "==2.2.3"
 scikit-learn = "*"
 jupyterlab = "*"
 xlrd = "*"
 seaborn = "*"
 ipython = "*"
 graphviz = "*"
+networkx = "==1.11"
 
 [requires]
 python_version = "3.6"
